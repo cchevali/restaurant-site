@@ -1,2 +1,2 @@
 # restaurant-site
-web site build w/ Angular and Bootstrap. Running on json-server
+Website built w/ Angular and Bootstrap. Running on json-server
